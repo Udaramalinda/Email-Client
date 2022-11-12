@@ -1,0 +1,5 @@
+Personal:udara,maali,udarawijesinghe20@gmail.com,2000/09/28
+Personal:Wijesinghe,Wije,udara.20@cse.mrt.ac.lk,2000/09/29
+Personal: sunil,<nick-name>,udarawijesinghe20@gmail.com,2000/09/29
+Personal:Malinda,maali,udara.20@cse.mrt.ac.lk,2002/09/29
+Personal:Udara,Malinda,udarawijesinghe20@gmail.com,2000/09/29
